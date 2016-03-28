@@ -1,0 +1,50 @@
+# Extracted from Minecraft world junior_lab
+# Mon Mar 28 01:34:29 2016
+
+# Selection location min to max: 787, 3, 1354 to 923, 88, 1452
+
+# Created for 3D printing - Binary STL VisCAM
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 51.48
+#   if made using the full color sandstone material:     $ 60.76 *** WARNING, thin wall ***
+# For white & flexible printer, minimum wall is 0.7 mm, maximum size is 65 x 55 x 35 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 9.59 x 5.81 x 6.93 cm
+#   in inches: 3.78 x 2.29 x 2.73 inches
+# each block is 0.70 mm on a side, and has a volume of 0.343 mm^3
+# sum of dimensions: 223.3 mm
+# volume is 77.009 cm^3
+# surface area is 495.557 cm^2
+# block density: 20% of volume
+
+# 101005 vertices, 101134 faces (202268 triangles), 224516 blocks
+# block dimensions: X=137 by Y=83 (height) by Z=99 blocks
+# File type: Export solid material colors only (no textures)
+# Make Z the up direction instead of Y: YES
+# Center model: YES
+# Export lesser blocks: no
+# Individual blocks: no
+# Use biomes: YES
+# Rotate model 0.000000 degrees
+# Scale model by making each block 0.7 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 50 blocks: YES
+#   Hollow out bottom of model, making the walls 0.7 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 2
+#   Air bubbles found and filled (with glass): 0
+#   Total solid parts merged: 13
+#   Number of edge passes made: 1
+#     Edges found to fix: 23
+#     Weld blocks added: 22
+#     Tip blocks added: 0
+#   Floating parts removed: 1
+#     In these floaters, total blocks removed: 1

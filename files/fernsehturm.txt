@@ -1,0 +1,50 @@
+# Extracted from Minecraft world junior_lab
+# Mon Mar 28 01:24:09 2016
+
+# Selection location min to max: 698, 3, 1224 to 743, 231, 1271
+
+# Created for 3D printing - Binary STL VisCAM
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 8.98
+#   if made using the full color sandstone material:     $ 8.23 *** WARNING, thin wall ***
+# For white & flexible printer, minimum wall is 0.7 mm, maximum size is 65 x 55 x 35 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 3.22 x 16.03 x 3.36 cm
+#   in inches: 1.27 x 6.31 x 1.32 inches
+# each block is 0.70 mm on a side, and has a volume of 0.343 mm^3
+# sum of dimensions: 226.1 mm
+# volume is 6.97971 cm^3
+# surface area is 73.6568 cm^2
+# block density: 4% of volume
+
+# 14977 vertices, 15032 faces (30064 triangles), 20349 blocks
+# block dimensions: X=46 by Y=229 (height) by Z=48 blocks
+# File type: Export solid material colors only (no textures)
+# Make Z the up direction instead of Y: YES
+# Center model: YES
+# Export lesser blocks: no
+# Individual blocks: no
+# Use biomes: YES
+# Rotate model 0.000000 degrees
+# Scale model by making each block 0.7 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: YES
+#   Hollow out bottom of model, making the walls 0.7 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 1
+#   Air bubbles found and filled (with glass): 3
+#   Total solid parts merged: 0
+#   Number of edge passes made: 0
+#     Edges found to fix: 0
+#     Weld blocks added: 0
+#     Tip blocks added: 0
+#   Floating parts removed: 0
+#     In these floaters, total blocks removed: 0
