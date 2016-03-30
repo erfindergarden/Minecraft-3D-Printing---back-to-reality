@@ -1,0 +1,50 @@
+# Extracted from Minecraft world junior_lab
+# Tue Mar 29 13:30:04 2016
+
+# Selection location min to max: 936, 3, 1097 to 1044, 106, 1198
+
+# Created for 3D printing - Binary STL iMaterialise
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 547.55
+#   if made using the full color sandstone material:     $ 1465.64
+# For colored sandstone printer, minimum wall is 2 mm, maximum size is 38 x 25 x 20 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 21.80 x 20.80 x 20.40 cm *** WARNING, too large for colored sandstone printer
+#   in inches: 8.58 x 8.19 x 8.03 inches *** WARNING, too large for colored sandstone printer
+# each block is 2.00 mm on a side, and has a volume of 8 mm^3
+# sum of dimensions: 630 mm
+# volume is 1950.18 cm^3
+# surface area is 3041.92 cm^2
+# block density: 21% of volume
+
+# 76037 vertices, 76048 faces (152096 triangles), 243773 blocks
+# block dimensions: X=109 by Y=104 (height) by Z=102 blocks
+# File type: Export solid material colors only (no textures)
+# Make Z the up direction instead of Y: YES
+# Center model: YES
+# Export lesser blocks: no
+# Individual blocks: no
+# Use biomes: YES
+# Rotate model 0.000000 degrees
+# Scale model by making each block 2 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: YES
+#   Hollow out bottom of model, making the walls 2 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 2
+#   Air bubbles found and filled (with glass): 2
+#   Total solid parts merged: 0
+#   Number of edge passes made: 0
+#     Edges found to fix: 0
+#     Weld blocks added: 0
+#     Tip blocks added: 0
+#   Floating parts removed: 0
+#     In these floaters, total blocks removed: 0

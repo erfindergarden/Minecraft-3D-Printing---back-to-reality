@@ -1,0 +1,50 @@
+# Extracted from Minecraft world junior_lab
+# Tue Mar 29 11:19:33 2016
+
+# Selection location min to max: 1624, 6, 1348 to 1793, 9, 1406
+
+# Created for 3D printing - Binary STL iMaterialise
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 49.83
+#   if made using the full color sandstone material:     $ 132.44
+# For colored sandstone printer, minimum wall is 2 mm, maximum size is 38 x 25 x 20 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 34.00 x 0.80 x 11.80 cm
+#   in inches: 13.39 x 0.31 x 4.65 inches
+# each block is 2.00 mm on a side, and has a volume of 8 mm^3
+# sum of dimensions: 466 mm
+# volume is 172.592 cm^3
+# surface area is 937.84 cm^2
+# block density: 54% of volume
+
+# 23448 vertices, 23446 faces (46892 triangles), 21574 blocks
+# block dimensions: X=170 by Y=4 (height) by Z=59 blocks
+# File type: Export solid material colors only (no textures)
+# Make Z the up direction instead of Y: YES
+# Center model: YES
+# Export lesser blocks: no
+# Individual blocks: no
+# Use biomes: YES
+# Rotate model 0.000000 degrees
+# Scale model by making each block 2 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: YES
+#   Hollow out bottom of model, making the walls 2 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 1
+#   Air bubbles found and filled (with glass): 0
+#   Total solid parts merged: 0
+#   Number of edge passes made: 0
+#     Edges found to fix: 0
+#     Weld blocks added: 0
+#     Tip blocks added: 0
+#   Floating parts removed: 0
+#     In these floaters, total blocks removed: 0
